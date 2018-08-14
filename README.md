@@ -10,6 +10,6 @@
 -DEPRECATED!!!
 ```
 
-```diff
--*DEPRECATED!!!*
+###```diff
+--- DEPRECATED! ---
 ```
