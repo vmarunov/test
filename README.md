@@ -9,3 +9,7 @@
 ```diff
 -DEPRECATED!!!
 ```
+
+```diff
+-*DEPRECATED!!!*
+```
