@@ -1,2 +1,5 @@
 # test
 
+```diff
+DEPRECATED!
+```
